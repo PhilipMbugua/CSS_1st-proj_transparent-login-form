@@ -11,7 +11,7 @@
 You're sections headers will be used to reference location of destination.
 
 - [Description](#description)
-- [My Info](#My Info)
+- [MyInfo](#MyInfo)
 
 ---
 
@@ -28,41 +28,6 @@ create custom buttons and input elements.
 
 ---
 
-```html
-<!DOCTYPE html>
-<html>
-  <head>
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css?family=Quicksand:100,300,500"
-    />
-    <link rel="stylesheet" href="styles.css" />
-    <title>Transparent Login Form</title>
-  </head>
-
-  <body>
-    <div class="full-screen-container">
-      <div class="login-container">
-        <h3 class="login-title">Welcome</h3>
-        <form>
-          <div class="input-group">
-            <label>Email</label>
-            <input type="email" />
-          </div>
-          <div class="input-group">
-            <label>Password</label>
-            <input type="password" />
-          </div>
-          <button type="submit" class="login-button">Sign In</button>
-        </form>
-      </div>
-    </div>
-  </body>
-</html>
-```
-
----
-
-## Author Info
+## My Info
 
 - Twitter - [@FiLipMbugua](https://twitter.com/FiLipMbugua)
