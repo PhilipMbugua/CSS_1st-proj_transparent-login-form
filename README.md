@@ -6,15 +6,6 @@
 
 ---
 
-### Table of Contents
-
-You're sections headers will be used to reference location of destination.
-
-- [Description](#description)
-- [MyInfo](#MyInfo)
-
----
-
 ## Description
 
 This is a transparent login form created using only CSS and HTML. Purpose of learning this is to know how
