@@ -2,7 +2,7 @@
 
 ![Project Image](https://teststudent2.000webhostapp.com/login_form.png)
 
-> Transparent login form
+> Transparent login form image
 
 ---
 
@@ -11,7 +11,7 @@
 You're sections headers will be used to reference location of destination.
 
 - [Description](#description)
-- [My Info](#my-info)
+- [My Info](#My Info)
 
 ---
 
@@ -25,8 +25,6 @@ create custom buttons and input elements.
 
 - HTML
 - CSS
-
-[Back To The Top](#read-me-template)
 
 ---
 
